@@ -1,0 +1,270 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/1winimini/Desktop/dixsoft/Hello/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/1winimini/Desktop/dixsoft/Hello/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/1winimini/Desktop/dixsoft/Hello/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/1winimini/Desktop/dixsoft/Hello/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from /Users/1winimini/Desktop/dixsoft/Hello/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-image-picker] /Users/1winimini/Desktop/dixsoft/Hello/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-21:12
+MERGED from [:react-native-community_masked-view] /Users/1winimini/Desktop/dixsoft/Hello/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-gesture-handler] /Users/1winimini/Desktop/dixsoft/Hello/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-reanimated] /Users/1winimini/Desktop/dixsoft/Hello/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-safe-area-context] /Users/1winimini/Desktop/dixsoft/Hello/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-screens] /Users/1winimini/Desktop/dixsoft/Hello/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-svg] /Users/1winimini/Desktop/dixsoft/Hello/node_modules/react-native-svg/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-vector-icons] /Users/1winimini/Desktop/dixsoft/Hello/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/100c3e3eb8832c210e0d76225f722871/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.material:material:1.1.0] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/6a06c5335de9a2a15455901c12a72f9b/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/127ae66fc942adc31574428bc8c3de8c/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0-alpha02] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/5ad7b3812ff240c31f44302c755a558e/AndroidManifest.xml:17:1-24:12
+MERGED from [org.webkit:android-jsc:r245459] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/190d993ba99105f186acc07832dfaa3a/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/042e9da2b4e1482110dc9e95d87618af/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/785182369b9725ed01310ae7d1c1a3c6/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/c1de43ec6de06d696f398501c475b606/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/7f7c271ebd40c0137975843e1fdbbfc1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/a1f95afdf2553400cf61577eaa1a2148/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/6c0835f133af346f9177b828ce04fcf9/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/3b69d61903e83728109074c2852a26ae/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/a50990ec87602fa8e1b41e128c9a3dee/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/51b91e06a59876773ef4c631c4cbc2ed/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/46f4d192f509bcfdc98ac06d8f828a4e/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/8e6810e0d58d697834c1f93e8a76ddf4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/0a1ac5a107b867e942bd68fe4ed2b985/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.1] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/ebc2f3482265ea8c71ce42162e325a7b/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/921d37f2b37a83a9bfc65819037c1243/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/5034084e47175bd2a51025c8355edee0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/893f3d579d98cc41ccd553b690b4c07c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/50a3879cfe365ee3e2700b73a8490acd/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/f907543d3fdf83611e438bff486867a4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/2b94b1c566f0a609016dc4ae413f6235/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/b601575383b8441ce6de54bcfe1a2ec0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/f0fd50894d5cd8c65a997db118b033d4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/e01536fd762b47ed5e142b592f522d01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.1.0] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/55b3c19ee123444297c4f50d35f3a65f/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/d8b55ee818653386be902a66a7b904b6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/19079f3847b00e26fcf94f2e4b162920/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/93dc1f0cd72952e4ec866d2c4e1a2705/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/3528b3bd36f942ce54fbc21656c71d20/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/8229d8cb8ed3e80f73a2e6ecf4206790/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/7cadad344fe5bc1a4d7f66e0f894eae9/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/fa036b23110702acfb1490c4801d146f/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/2c10cdf0e5f0f70cf5fb4e1125476923/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/24d9169da4eecbf610f83a35d5906407/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/34ceafbaeee3417eb1fb417e51da4abb/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/1f6071a739469953cbc12c521f02b327/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/1winimini/Desktop/dixsoft/Hello/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/1winimini/Desktop/dixsoft/Hello/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/1winimini/Desktop/dixsoft/Hello/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /Users/1winimini/Desktop/dixsoft/Hello/android/app/src/main/AndroidManifest.xml:2:3-22
+		INJECTED from /Users/1winimini/Desktop/dixsoft/Hello/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/1winimini/Desktop/dixsoft/Hello/android/app/src/main/AndroidManifest.xml:2:3-22
+		INJECTED from /Users/1winimini/Desktop/dixsoft/Hello/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/1winimini/Desktop/dixsoft/Hello/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/1winimini/Desktop/dixsoft/Hello/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/1winimini/Desktop/dixsoft/Hello/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/1winimini/Desktop/dixsoft/Hello/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/1winimini/Desktop/dixsoft/Hello/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/1winimini/Desktop/dixsoft/Hello/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/1winimini/Desktop/dixsoft/Hello/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/1winimini/Desktop/dixsoft/Hello/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/1winimini/Desktop/dixsoft/Hello/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/1winimini/Desktop/dixsoft/Hello/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/1winimini/Desktop/dixsoft/Hello/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/1winimini/Desktop/dixsoft/Hello/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/1winimini/Desktop/dixsoft/Hello/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from [:react-native-image-picker] /Users/1winimini/Desktop/dixsoft/Hello/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-19:19
+MERGED from [:react-native-image-picker] /Users/1winimini/Desktop/dixsoft/Hello/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-19:19
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/100c3e3eb8832c210e0d76225f722871/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/100c3e3eb8832c210e0d76225f722871/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/6a06c5335de9a2a15455901c12a72f9b/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/6a06c5335de9a2a15455901c12a72f9b/AndroidManifest.xml:22:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/a50990ec87602fa8e1b41e128c9a3dee/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/a50990ec87602fa8e1b41e128c9a3dee/AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.1.0] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/55b3c19ee123444297c4f50d35f3a65f/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/55b3c19ee123444297c4f50d35f3a65f/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/19079f3847b00e26fcf94f2e4b162920/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/19079f3847b00e26fcf94f2e4b162920/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/55b3c19ee123444297c4f50d35f3a65f/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/1winimini/Desktop/dixsoft/Hello/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /Users/1winimini/Desktop/dixsoft/Hello/android/app/src/main/AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from /Users/1winimini/Desktop/dixsoft/Hello/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /Users/1winimini/Desktop/dixsoft/Hello/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /Users/1winimini/Desktop/dixsoft/Hello/android/app/src/main/AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from /Users/1winimini/Desktop/dixsoft/Hello/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /Users/1winimini/Desktop/dixsoft/Hello/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /Users/1winimini/Desktop/dixsoft/Hello/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /Users/1winimini/Desktop/dixsoft/Hello/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /Users/1winimini/Desktop/dixsoft/Hello/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/1winimini/Desktop/dixsoft/Hello/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /Users/1winimini/Desktop/dixsoft/Hello/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from /Users/1winimini/Desktop/dixsoft/Hello/android/app/src/debug/AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from /Users/1winimini/Desktop/dixsoft/Hello/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /Users/1winimini/Desktop/dixsoft/Hello/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.hello.MainActivity
+ADDED from /Users/1winimini/Desktop/dixsoft/Hello/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /Users/1winimini/Desktop/dixsoft/Hello/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/1winimini/Desktop/dixsoft/Hello/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /Users/1winimini/Desktop/dixsoft/Hello/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /Users/1winimini/Desktop/dixsoft/Hello/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/1winimini/Desktop/dixsoft/Hello/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /Users/1winimini/Desktop/dixsoft/Hello/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /Users/1winimini/Desktop/dixsoft/Hello/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/1winimini/Desktop/dixsoft/Hello/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /Users/1winimini/Desktop/dixsoft/Hello/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/1winimini/Desktop/dixsoft/Hello/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /Users/1winimini/Desktop/dixsoft/Hello/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /Users/1winimini/Desktop/dixsoft/Hello/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/1winimini/Desktop/dixsoft/Hello/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/1winimini/Desktop/dixsoft/Hello/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-image-picker] /Users/1winimini/Desktop/dixsoft/Hello/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-image-picker] /Users/1winimini/Desktop/dixsoft/Hello/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_masked-view] /Users/1winimini/Desktop/dixsoft/Hello/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_masked-view] /Users/1winimini/Desktop/dixsoft/Hello/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-gesture-handler] /Users/1winimini/Desktop/dixsoft/Hello/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/1winimini/Desktop/dixsoft/Hello/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Users/1winimini/Desktop/dixsoft/Hello/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Users/1winimini/Desktop/dixsoft/Hello/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-safe-area-context] /Users/1winimini/Desktop/dixsoft/Hello/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] /Users/1winimini/Desktop/dixsoft/Hello/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] /Users/1winimini/Desktop/dixsoft/Hello/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] /Users/1winimini/Desktop/dixsoft/Hello/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-svg] /Users/1winimini/Desktop/dixsoft/Hello/node_modules/react-native-svg/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-svg] /Users/1winimini/Desktop/dixsoft/Hello/node_modules/react-native-svg/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-vector-icons] /Users/1winimini/Desktop/dixsoft/Hello/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/1winimini/Desktop/dixsoft/Hello/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/100c3e3eb8832c210e0d76225f722871/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/100c3e3eb8832c210e0d76225f722871/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.1.0] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/6a06c5335de9a2a15455901c12a72f9b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/6a06c5335de9a2a15455901c12a72f9b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/127ae66fc942adc31574428bc8c3de8c/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/127ae66fc942adc31574428bc8c3de8c/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0-alpha02] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/5ad7b3812ff240c31f44302c755a558e/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0-alpha02] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/5ad7b3812ff240c31f44302c755a558e/AndroidManifest.xml:20:5-22:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/190d993ba99105f186acc07832dfaa3a/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/190d993ba99105f186acc07832dfaa3a/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/042e9da2b4e1482110dc9e95d87618af/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/042e9da2b4e1482110dc9e95d87618af/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/785182369b9725ed01310ae7d1c1a3c6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/785182369b9725ed01310ae7d1c1a3c6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/c1de43ec6de06d696f398501c475b606/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/c1de43ec6de06d696f398501c475b606/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/7f7c271ebd40c0137975843e1fdbbfc1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/7f7c271ebd40c0137975843e1fdbbfc1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/a1f95afdf2553400cf61577eaa1a2148/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/a1f95afdf2553400cf61577eaa1a2148/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/6c0835f133af346f9177b828ce04fcf9/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/6c0835f133af346f9177b828ce04fcf9/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/3b69d61903e83728109074c2852a26ae/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/3b69d61903e83728109074c2852a26ae/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/a50990ec87602fa8e1b41e128c9a3dee/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/a50990ec87602fa8e1b41e128c9a3dee/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/51b91e06a59876773ef4c631c4cbc2ed/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/51b91e06a59876773ef4c631c4cbc2ed/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/46f4d192f509bcfdc98ac06d8f828a4e/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/46f4d192f509bcfdc98ac06d8f828a4e/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/8e6810e0d58d697834c1f93e8a76ddf4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/8e6810e0d58d697834c1f93e8a76ddf4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/0a1ac5a107b867e942bd68fe4ed2b985/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/0a1ac5a107b867e942bd68fe4ed2b985/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/ebc2f3482265ea8c71ce42162e325a7b/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/ebc2f3482265ea8c71ce42162e325a7b/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/921d37f2b37a83a9bfc65819037c1243/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/921d37f2b37a83a9bfc65819037c1243/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/5034084e47175bd2a51025c8355edee0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/5034084e47175bd2a51025c8355edee0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/893f3d579d98cc41ccd553b690b4c07c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/893f3d579d98cc41ccd553b690b4c07c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/50a3879cfe365ee3e2700b73a8490acd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/50a3879cfe365ee3e2700b73a8490acd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/f907543d3fdf83611e438bff486867a4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/f907543d3fdf83611e438bff486867a4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/2b94b1c566f0a609016dc4ae413f6235/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/2b94b1c566f0a609016dc4ae413f6235/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/b601575383b8441ce6de54bcfe1a2ec0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/b601575383b8441ce6de54bcfe1a2ec0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/f0fd50894d5cd8c65a997db118b033d4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/f0fd50894d5cd8c65a997db118b033d4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/e01536fd762b47ed5e142b592f522d01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/e01536fd762b47ed5e142b592f522d01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/55b3c19ee123444297c4f50d35f3a65f/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/55b3c19ee123444297c4f50d35f3a65f/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/d8b55ee818653386be902a66a7b904b6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/d8b55ee818653386be902a66a7b904b6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/19079f3847b00e26fcf94f2e4b162920/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/19079f3847b00e26fcf94f2e4b162920/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/93dc1f0cd72952e4ec866d2c4e1a2705/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/93dc1f0cd72952e4ec866d2c4e1a2705/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/3528b3bd36f942ce54fbc21656c71d20/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/3528b3bd36f942ce54fbc21656c71d20/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/8229d8cb8ed3e80f73a2e6ecf4206790/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/8229d8cb8ed3e80f73a2e6ecf4206790/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/7cadad344fe5bc1a4d7f66e0f894eae9/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/7cadad344fe5bc1a4d7f66e0f894eae9/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/fa036b23110702acfb1490c4801d146f/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/fa036b23110702acfb1490c4801d146f/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/2c10cdf0e5f0f70cf5fb4e1125476923/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/2c10cdf0e5f0f70cf5fb4e1125476923/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/24d9169da4eecbf610f83a35d5906407/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/24d9169da4eecbf610f83a35d5906407/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/34ceafbaeee3417eb1fb417e51da4abb/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/34ceafbaeee3417eb1fb417e51da4abb/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/1f6071a739469953cbc12c521f02b327/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/1winimini/.gradle/caches/transforms-2/files-2.1/1f6071a739469953cbc12c521f02b327/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/1winimini/Desktop/dixsoft/Hello/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/1winimini/Desktop/dixsoft/Hello/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/1winimini/Desktop/dixsoft/Hello/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/1winimini/Desktop/dixsoft/Hello/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/1winimini/Desktop/dixsoft/Hello/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/1winimini/Desktop/dixsoft/Hello/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/1winimini/Desktop/dixsoft/Hello/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/1winimini/Desktop/dixsoft/Hello/android/app/src/debug/AndroidManifest.xml:5:22-75
+provider#com.imagepicker.FileProvider
+ADDED from [:react-native-image-picker] /Users/1winimini/Desktop/dixsoft/Hello/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:9-18:20
+	android:grantUriPermissions
+		ADDED from [:react-native-image-picker] /Users/1winimini/Desktop/dixsoft/Hello/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-47
+	android:authorities
+		ADDED from [:react-native-image-picker] /Users/1winimini/Desktop/dixsoft/Hello/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:13-60
+	android:exported
+		ADDED from [:react-native-image-picker] /Users/1winimini/Desktop/dixsoft/Hello/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-37
+	android:name
+		ADDED from [:react-native-image-picker] /Users/1winimini/Desktop/dixsoft/Hello/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:13-56
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:react-native-image-picker] /Users/1winimini/Desktop/dixsoft/Hello/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-17:58
+	android:resource
+		ADDED from [:react-native-image-picker] /Users/1winimini/Desktop/dixsoft/Hello/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:17-55
+	android:name
+		ADDED from [:react-native-image-picker] /Users/1winimini/Desktop/dixsoft/Hello/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:17-67
